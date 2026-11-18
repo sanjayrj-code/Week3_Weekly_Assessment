@@ -1,0 +1,39 @@
+text,category,Cluster
+Unable to access my monthly invoice,Billing,1
+Payment deducted but invoice not generated,Billing,1
+I was charged twice for my subscription,Billing,1
+Need refund for incorrect payment,Billing,1
+My credit card payment failed,Billing,1
+Subscription renewal amount is incorrect,Billing,1
+Please explain additional charges on my bill,Billing,1
+Invoice download is not working,Billing,1
+Need a copy of last month's receipt,Billing,1
+Unexpected tax added to my invoice,Billing,1
+Payment status still showing pending,Billing,1
+Unable to update billing information,Billing,0
+Application crashes when I open it,Technical,1
+Website loading very slowly,Technical,1
+Getting error while uploading files,Technical,1
+Mobile application keeps freezing,Technical,1
+Server connection timeout,Technical,1
+Dashboard is displaying incorrect data,Technical,1
+Unable to download reports,Technical,0
+API returns internal server error,Technical,1
+Email notifications are not working,Technical,1
+System stops responding during login,Technical,1
+Unable to connect to the database,Technical,0
+Search feature is not working properly,Technical,1
+Cannot reset my account password,Account,2
+My account has been locked,Account,2
+Need to change registered email address,Account,1
+Unable to update my profile details,Account,0
+Account verification email not received,Account,2
+How can I delete my account,Account,2
+My account access was suspended,Account,2
+Need help changing my username,Account,1
+Unable to enable two factor authentication,Account,0
+How do I deactivate my account,Account,2
+I cannot access my old account,Account,2
+Need to update my phone number,Account,1
+Account settings are not saving,Account,2
+Password reset link has expired,Account,1

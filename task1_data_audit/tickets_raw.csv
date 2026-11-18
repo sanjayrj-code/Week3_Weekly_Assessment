@@ -1,0 +1,47 @@
+text,category
+Unable to access my monthly invoice,Billing
+Payment deducted but invoice not generated,billing
+I was charged twice for my subscription,BILLING
+Need refund for incorrect payment,Billing
+My credit card payment failed,Billing
+Subscription renewal amount is incorrect,Billing
+Please explain additional charges on my bill,Billing
+Invoice download is not working,Billing
+Need a copy of last month's receipt,Billing
+Unexpected tax added to my invoice,Billing
+Payment status still showing pending,Billing
+Unable to update billing information,Billing
+Application crashes when I open it,Technical
+Website loading very slowly,technical
+Getting error while uploading files,Technical
+Mobile application keeps freezing,Technical
+Server connection timeout,Technical
+Dashboard is displaying incorrect data,Technical
+Unable to download reports,Technical
+API returns internal server error,Technical
+Email notifications are not working,Technical
+System stops responding during login,Technical
+Unable to connect to the database,Technical
+Search feature is not working properly,Technical
+Cannot reset my account password,Account
+My account has been locked,Account
+Need to change registered email address,ACCOUNT
+Unable to update my profile details,account
+Account verification email not received,Account
+How can I delete my account,Account
+My account access was suspended,Account
+Need help changing my username,Account
+Unable to enable two factor authentication,Account
+How do I deactivate my account,Account
+I cannot access my old account,Account
+Need to update my phone number,Account
+Account settings are not saving,Account
+Password reset link has expired,Account
+Unable to access my monthly invoice,Billing
+Need refund for incorrect payment,Billing
+,Technical
+My account has been locked,
+My account access was suspended,Account
+Payment is not reflecting in my account,
+,Technical
+Cannot connect to the application,
